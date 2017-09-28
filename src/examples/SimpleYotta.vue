@@ -35,18 +35,4 @@
   }
 </script>
 
-<style>
-  #main-container {
-    padding: 1em 4em 2em 4em;
-    vertical-align: top;
-    background-color: #fff;
-    min-width: 750px;
-  }
-
-  table.table tr td {
-    text-align: left;
-    padding: 2px 5px;
-  }
-</style>
-
 
